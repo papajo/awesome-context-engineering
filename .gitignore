@@ -1,0 +1,5 @@
+# Local Pi runtime state
+.atl/
+docs/
+context-patterns/awesome/docs/
+tmp/

@@ -1,0 +1,92 @@
+{
+  "/Users/padoshi/Projects/swaha/CHANGELOG.md": {
+    "mtime": 1780927378.1561816,
+    "ast_hash": "8b5d3b049dadd5ca655a58b2fb7034d2",
+    "semantic_hash": "8b5d3b049dadd5ca655a58b2fb7034d2"
+  },
+  "/Users/padoshi/Projects/swaha/CODE_OF_CONDUCT.md": {
+    "mtime": 1780927378.156097,
+    "ast_hash": "d67a2c42243f033abdbb58a7244d5c21",
+    "semantic_hash": "d67a2c42243f033abdbb58a7244d5c21"
+  },
+  "/Users/padoshi/Projects/swaha/CONTRIBUTING.md": {
+    "mtime": 1780883681.8147306,
+    "ast_hash": "1ca1079d8736868d11b1c6a69ed68ad1",
+    "semantic_hash": "1ca1079d8736868d11b1c6a69ed68ad1"
+  },
+  "/Users/padoshi/Projects/swaha/README.md": {
+    "mtime": 1780927301.787534,
+    "ast_hash": "9d70b96175284cfd7f2010fc29e1e88b",
+    "semantic_hash": "9d70b96175284cfd7f2010fc29e1e88b"
+  },
+  "/Users/padoshi/Projects/swaha/ROADMAP.md": {
+    "mtime": 1780927378.1562726,
+    "ast_hash": "d4c6b5a690b7530dd9b149944074769a",
+    "semantic_hash": "d4c6b5a690b7530dd9b149944074769a"
+  },
+  "/Users/padoshi/Projects/swaha/SECURITY.md": {
+    "mtime": 1780927378.1561644,
+    "ast_hash": "c0d187501b24017f7ffc67ad574cc372",
+    "semantic_hash": "c0d187501b24017f7ffc67ad574cc372"
+  },
+  "/Users/padoshi/Projects/swaha/awesome/docs/existing-repo-probe.md": {
+    "mtime": 1780883330.695622,
+    "ast_hash": "89ab1a1897880b8920e201380a436e55",
+    "semantic_hash": "89ab1a1897880b8920e201380a436e55"
+  },
+  "/Users/padoshi/Projects/swaha/awesome/docs/full-prd-checklist.md": {
+    "mtime": 1780927763.370583,
+    "ast_hash": "b4d265ab4a13037ed57c385e6b9301b5",
+    "semantic_hash": "b4d265ab4a13037ed57c385e6b9301b5"
+  },
+  "/Users/padoshi/Projects/swaha/awesome/docs/full-repo-scope-probe.md": {
+    "mtime": 1780927661.8280854,
+    "ast_hash": "992751a6e919089b4f209f0258e5c0de",
+    "semantic_hash": "992751a6e919089b4f209f0258e5c0de"
+  },
+  "/Users/padoshi/Projects/swaha/awesome/docs/prd-scaffold-probe.md": {
+    "mtime": 1780883184.2550538,
+    "ast_hash": "2a5f8d082bd9d92f4c09ef08540f16b7",
+    "semantic_hash": "2a5f8d082bd9d92f4c09ef08540f16b7"
+  },
+  "/Users/padoshi/Projects/swaha/examples/README.md": {
+    "mtime": 1780883779.8624454,
+    "ast_hash": "c20ab534a6deeb803a98879c9143c444",
+    "semantic_hash": "c20ab534a6deeb803a98879c9143c444"
+  },
+  "/Users/padoshi/Projects/swaha/examples/customer-support-agent/architecture.md": {
+    "mtime": 1780883503.563724,
+    "ast_hash": "5691968ab1cc12f5c2bb1cf889acd498",
+    "semantic_hash": "5691968ab1cc12f5c2bb1cf889acd498"
+  },
+  "/Users/padoshi/Projects/swaha/initial-prd.md": {
+    "mtime": 1780882534.7045174,
+    "ast_hash": "91185d9902eb76fc4fec2dfc4b76b4dc",
+    "semantic_hash": "91185d9902eb76fc4fec2dfc4b76b4dc"
+  },
+  "/Users/padoshi/Projects/swaha/patterns/README.md": {
+    "mtime": 1780883776.8009267,
+    "ast_hash": "091e2c7265e3fb417ec8b62888572a73",
+    "semantic_hash": "091e2c7265e3fb417ec8b62888572a73"
+  },
+  "/Users/padoshi/Projects/swaha/patterns/rolling-memory.md": {
+    "mtime": 1780883503.5636263,
+    "ast_hash": "fab8e4fc98093f87fe91cd52901237f1",
+    "semantic_hash": "fab8e4fc98093f87fe91cd52901237f1"
+  },
+  "/Users/padoshi/Projects/swaha/sections/README.md": {
+    "mtime": 1780883773.6221824,
+    "ast_hash": "45017b3b947d9d5880d67c404fdda937",
+    "semantic_hash": "45017b3b947d9d5880d67c404fdda937"
+  },
+  "/Users/padoshi/Projects/swaha/sections/context-windows.md": {
+    "mtime": 1780883503.5635557,
+    "ast_hash": "a88265af0f7a23621a0559a42f14fac9",
+    "semantic_hash": "a88265af0f7a23621a0559a42f14fac9"
+  },
+  "/Users/padoshi/Projects/swaha/sections/foundations.md": {
+    "mtime": 1780883503.5635552,
+    "ast_hash": "049c31051380bf1d0670c9500e80442b",
+    "semantic_hash": "049c31051380bf1d0670c9500e80442b"
+  }
+}
