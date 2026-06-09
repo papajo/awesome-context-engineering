@@ -74,7 +74,7 @@ recipes/03-context-ranking.md]
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-org/swaha
+git clone https://github.com/padoshi/swaha
 cd swaha/context-patterns
 # Pick a recipe, copy the code, run it
 python3 -c "$(cat recipes/02-context-compression.md | sed -n '/```python/,/```/p' | sed '1d;$d')"
