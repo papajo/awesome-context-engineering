@@ -1,8 +1,8 @@
-# Swaha — Save 40% on LLM Costs Without Sacrificing Quality
+# Context Patterns — Save 40% on LLM Costs Without Sacrificing Quality
 
-**Swaha** gives you copy-paste Python code for managing what you send to LLMs. Less tokens = lower costs, faster responses, better quality.
+**Context Patterns** gives you copy-paste Python code for managing what you send to LLMs. Less tokens = lower costs, faster responses, better quality.
 
-## The Swaha Model
+## The Model
 
 Every context problem reduces to three axes:
 
@@ -65,17 +65,17 @@ recipes/03-context-ranking.md]
 
 | Layer | What You Get |
 |---|---|
-| [6 Recipes](./context-patterns/recipes/) | Standalone Python, zero deps, copy → paste → run |
-| [Decision Guide](./context-patterns/DECISION-GUIDE.md) | Mermaid tree + comparison tables + anti-patterns |
-| [Cheatsheets](./context-patterns/cheatsheets/) | One-page quick references |
-| [10‑min Quickstart](./context-patterns/quickstart/) | Walkthrough: prune → rank → compress → assemble |
+| [6 Recipes](./recipes/) | Standalone Python, zero deps, copy → paste → run |
+| [Decision Guide](./DECISION-GUIDE.md) | Mermaid tree + comparison tables + anti-patterns |
+| [Cheatsheets](./cheatsheets/) | One-page quick references |
+| [10‑min Quickstart](./quickstart/) | Walkthrough: prune → rank → compress → assemble |
 | [Reference Catalog](./context-patterns/) | 28 sections, 8 deep-dive patterns, 7 architecture examples |
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/padoshi/swaha
-cd swaha/context-patterns
+git clone https://github.com/papajo/context-patterns
+cd context-patterns
 # Pick a recipe, copy the code, run it
 python3 -c "$(cat recipes/02-context-compression.md | sed -n '/```python/,/```/p' | sed '1d;$d')"
 ```
