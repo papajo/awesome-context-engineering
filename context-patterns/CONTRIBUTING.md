@@ -1,6 +1,6 @@
-# Contributing to Awesome Context Engineering
+# Contributing to Context Patterns
 
-Thank you for considering contributing to the Awesome Context Engineering project!
+Thank you for considering contributing to the Context Patterns project!
 
 Please read the following guidelines before submitting pull requests or issues:
 

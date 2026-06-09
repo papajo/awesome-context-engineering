@@ -1,4 +1,4 @@
-# Awesome Context Engineering — Cookbook
+# Context Patterns — Cookbook
 
 > 6 copy-paste recipes for context engineering. Each recipe solves a real problem, is written in Python with zero external dependencies, and links to the relevant pattern for deeper understanding.
 >
